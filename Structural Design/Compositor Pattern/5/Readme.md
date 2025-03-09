@@ -26,8 +26,9 @@ group.add(light);
 group.add(speaker);
 
 group.turnOn();
-Expected Output
+
 ```
+### Expected Output
 ```sh
 ✅ Smart Light is now ON
 ✅ Smart Speaker is now ON
